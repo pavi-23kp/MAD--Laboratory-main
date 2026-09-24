@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+
+    <student>
+        <name>Pavan Kumar</name>
+        <age>20</age>
+        <department>CSE</department>
+    </student>
+
+    <student>
+        <name>Parudhi</name>
+        <age>20</age>
+        <department>CSE</department>
+    </student>
+
+    <student>
+        <name>Karthick</name>
+        <age>20</age>
+        <department>CSE</department>
+    </student>
+
+</students>
